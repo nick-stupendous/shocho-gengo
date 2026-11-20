@@ -1,0 +1,112 @@
+{
+ "N1": {
+  "file": "hanabira_jlpt_n1_grammar.csv",
+  "count": 245,
+  "categories": {
+   "conditionals": 33,
+   "other": 89,
+   "time": 30,
+   "comparison": 8,
+   "cause": 13,
+   "contrast": 22,
+   "emphasis": 11,
+   "quantity": 10,
+   "suggestion": 2,
+   "obligation": 7,
+   "conjecture": 3,
+   "voice": 3,
+   "forms": 5,
+   "desire": 8,
+   "purpose": 1
+  }
+ },
+ "N2": {
+  "file": "hanabira_jlpt_n2_grammar.csv",
+  "count": 191,
+  "categories": {
+   "other": 67,
+   "contrast": 28,
+   "cause": 17,
+   "conditionals": 15,
+   "giving": 3,
+   "time": 23,
+   "quantity": 6,
+   "comparison": 5,
+   "voice": 2,
+   "forms": 3,
+   "conjecture": 4,
+   "emphasis": 4,
+   "desire": 5,
+   "obligation": 5,
+   "purpose": 1,
+   "suggestion": 3
+  }
+ },
+ "N3": {
+  "file": "hanabira_jlpt_n3_grammar.csv",
+  "count": 132,
+  "categories": {
+   "suggestion": 8,
+   "time": 11,
+   "contrast": 12,
+   "cause": 15,
+   "other": 36,
+   "desire": 9,
+   "quantity": 7,
+   "voice": 3,
+   "emphasis": 2,
+   "obligation": 2,
+   "conditionals": 16,
+   "forms": 1,
+   "giving": 2,
+   "conjecture": 5,
+   "comparison": 2,
+   "purpose": 1
+  }
+ },
+ "N4": {
+  "file": "hanabira_jlpt_n4_grammar.csv",
+  "count": 124,
+  "categories": {
+   "other": 34,
+   "quantity": 4,
+   "comparison": 1,
+   "contrast": 4,
+   "desire": 8,
+   "cause": 10,
+   "time": 15,
+   "giving": 12,
+   "voice": 6,
+   "forms": 2,
+   "honorific": 4,
+   "suggestion": 2,
+   "conditionals": 9,
+   "conjecture": 5,
+   "quotation": 1,
+   "obligation": 6,
+   "purpose": 1
+  }
+ },
+ "N5": {
+  "file": "hanabira_jlpt_n5_grammar.csv",
+  "count": 136,
+  "categories": {
+   "comparison": 7,
+   "contrast": 8,
+   "suggestion": 4,
+   "other": 54,
+   "quantity": 12,
+   "forms": 9,
+   "particles": 3,
+   "voice": 3,
+   "desire": 5,
+   "time": 14,
+   "purpose": 4,
+   "cause": 6,
+   "honorific": 1,
+   "obligation": 1,
+   "emphasis": 2,
+   "giving": 3
+  }
+ }
+}

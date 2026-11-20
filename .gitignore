@@ -1,0 +1,6 @@
+data/kvg/
+data/raw/
+previews/
+*.zip
+__pycache__/
+data/grammar/
